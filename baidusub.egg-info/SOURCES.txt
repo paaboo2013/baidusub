@@ -1,0 +1,10 @@
+README.md
+setup.py
+baidusub/__init__.py
+baidusub/formatters.py
+baidusub.egg-info/PKG-INFO
+baidusub.egg-info/SOURCES.txt
+baidusub.egg-info/dependency_links.txt
+baidusub.egg-info/entry_points.txt
+baidusub.egg-info/requires.txt
+baidusub.egg-info/top_level.txt
