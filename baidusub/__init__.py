@@ -17,10 +17,6 @@ from autosub.formatters import FORMATTERS
 
 DEFAULT_SUBTITLE_FORMAT = 'srt'
 DEFAULT_CONCURRENCY = 10
-#APP_ID = '12258620'
-#API_KEY = 'MS7mXAcqTX7ozpNteQTzKHM6'
-#SECRET_KEY = 'nmDCprLGG3W2NI8YMR7GWxgj7OaW8l3p'
-#client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
 def getClient():
     try:
