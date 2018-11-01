@@ -1,7 +1,7 @@
 
 
-#Baidusub  [Baidusub at pypi](https://pypi.python.org/pypi/baidusub "Baidusub") 
-###Auto-generated subtitles for any video
+# Baidusub  [Baidusub at pypi](https://pypi.python.org/pypi/baidusub "Baidusub") 
+### Auto-generated subtitles for any video
 
 Baidusub is forked from autosub from https://github.com/agermanidis/autosub. thanks for that. Baidusub is a utility for automatic speech recognition and subtitle generation. It takes a video or an audio file as input, performs voice activity detection to find speech regions, makes parallel requests to Baidu Web Speech API to generate transcriptions for those regions (will not translates them to a different language for now) , and finally saves the resulting subtitles to disk. It can currently produce subtitles in either the SRT format or simple JSON.
 
